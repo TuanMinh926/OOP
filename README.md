@@ -5,3 +5,4 @@ library code OOP
 + lab1_5: find UCLN
 + OOP C++:
   + Point x y with c++
+  + Person in school
