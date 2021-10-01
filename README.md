@@ -6,3 +6,4 @@ library code OOP
 + OOP C++:
   + Point x y with c++
   + Person in school
+  + Person customer, employee
